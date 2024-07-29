@@ -5,4 +5,4 @@ Simple Volume Slider using Equalizer APO
 - [EqualizerAPO](https://equalizerapo.com/) installed in default directory (Windows only)
 
 **Installation:**
-- Either install the compiled .exe file or compile the main.py file yourself
+- Either install the compiled .exe file attached in the releases or compile the main.py file yourself
